@@ -6,8 +6,11 @@ This is the interactive demo from Krzysztof Klodowski's talk at the Cambridge si
 ## Generating the "Open in Colab" button
 <https://openincolab.com/>
 
-## Open the notebook
-<a target="_blank" href="https://colab.research.google.com/github/ctr/pulseq_mrzero_demo/blob/main/Pulseq_MRZero_demo.ipynb">
+## Open the notebooks
+Pulseq_MRZero_demo.ipynb: <a target="_blank" href="https://colab.research.google.com/github/ctr/pulseq_mrzero_demo/blob/main/Pulseq_MRZero_demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+mr0_FLASH_2D_seq.ipynb: <a target="_blank" href="https://colab.research.google.com/github/ctr/pulseq_mrzero_demo/blob/main/mr0_FLASH_2D_seq.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
