@@ -3,3 +3,7 @@ __pycache__
 *.asv
 ~*.tmp
 FID.seq
+gre_pypulseq.seq
+.gitignore
+mySeq_mod_FID.seq
+mySeq_FID.seq
