@@ -2,18 +2,20 @@
 
 These are interactive demo codes from Prof Chris Rodgers' advanced MRI lecture on 4 Mar 2026.
 
-Some examples are based on lectures given at the ESMRMB 2024 conference by the Pulseq and MRzero authors.
+## Using the notebooks
 
-## Open the notebooks
-Pulseq_MRZero_demo.ipynb: <a target="_blank" href="https://colab.research.google.com/github/ctr/pulseq_mrzero_demo/blob/main/Pulseq_MRZero_demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+Click onto the `ipynb` file above. This will show a saved version of the generated figures.
 
-mr0_FLASH_2D_seq.ipynb: <a target="_blank" href="https://colab.research.google.com/github/ctr/pulseq_mrzero_demo/blob/main/mr0_FLASH_2D_seq.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+To EDIT this and run it live with your own choice of parameters, click the little <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/> buttons at the top of each jupyter notebook.
+
+The examples that start `MedPhys_` will be discussed in the lectures.
+
+## References
+
+The lecture handout on accompanying theory is at <MedicalPhysics2025-26AdvancedMRI.pdf>.
+
+Some examples are based on lectures given at the ESMRMB 2024 conference by the Pulseq and MRzero authors <https://github.com/mritogether/ESMRMB2024_Hardware_to_Map>, and from the online Pulseq training course <https://github.com/pulseq/MR-Physics-with-Pulseq/>.
 
 ## Notes for Chris
 ### Generating the "Open in Colab" button
-Use this site to update the "Open in Colab" buttons <https://openincolab.com/>
-
+Save from within Google Colab directly to GitHub. Or use this site to update the "Open in Colab" buttons <https://openincolab.com/>
