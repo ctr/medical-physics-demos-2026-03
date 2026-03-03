@@ -2,3 +2,4 @@ __pycache__
 *.pyc
 *.asv
 ~*.tmp
+FID.seq
