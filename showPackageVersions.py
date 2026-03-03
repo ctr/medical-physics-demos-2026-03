@@ -4,7 +4,7 @@
 
 from importlib.metadata import version, PackageNotFoundError, distribution
 
-for pkg in ["pypulseq", "MRzeroCore"]:
+for pkg in ["pypulseq", "MRzeroCore", "sigpy"]:
     try:
         dist = distribution(pkg)
         print(f"{pkg}:")
