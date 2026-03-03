@@ -6,7 +6,7 @@ These are interactive demo codes from Prof Chris Rodgers' advanced MRI lecture o
 
 Click onto the `ipynb` file above. This will show a saved version of the generated figures.
 
-To EDIT this and run it live with your own choice of parameters, click the little <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/> buttons at the top of each jupyter notebook.
+To EDIT this and run it live with your own choice of parameters, click the little <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Demo of Open In Colab button"/> buttons at the top of each jupyter notebook.
 
 The examples that start `MedPhys_` will be discussed in the lectures.
 
