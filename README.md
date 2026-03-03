@@ -12,7 +12,7 @@ The examples that start `MedPhys_` will be discussed in the lectures.
 
 ## References
 
-The lecture handout on accompanying theory is at <MedicalPhysics2025-26AdvancedMRI.pdf>.
+See [the lecture handout](MedicalPhysics2025-26AdvancedMRI.pdf) for details of the accompanying theory.
 
 Some examples are based on lectures given at the ESMRMB 2024 conference by the Pulseq and MRzero authors <https://github.com/mritogether/ESMRMB2024_Hardware_to_Map>, and from the online Pulseq training course <https://github.com/pulseq/MR-Physics-with-Pulseq/>.
 
